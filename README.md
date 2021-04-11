@@ -13,7 +13,7 @@ BEHAVIOR3 EDITOR
 
 3. Extract Electron into the /electron/ folder
 
-4. Run /electron/electron.exe
+4. For Windows Users - Run /electron/electron.exe OR for MacOS users - Run the 'run.sh' script
 
 5. Go to file->Import nodes...
 
