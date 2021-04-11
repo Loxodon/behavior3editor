@@ -1,3 +1,6 @@
+# MacOS
+.DS_Store
+
 # Logs
 logs
 *.log
@@ -36,6 +39,7 @@ todo
 settings.json
 
 dist/*
+electron/*.app
 electron/*.dll
 electron/*.dat
 electron/*.bin
